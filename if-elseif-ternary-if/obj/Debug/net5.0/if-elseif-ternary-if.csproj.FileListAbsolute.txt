@@ -1,0 +1,16 @@
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\bin\Debug\net5.0\if-elseif-ternary-if.exe
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\bin\Debug\net5.0\if-elseif-ternary-if.deps.json
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\bin\Debug\net5.0\if-elseif-ternary-if.runtimeconfig.json
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\bin\Debug\net5.0\if-elseif-ternary-if.runtimeconfig.dev.json
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\bin\Debug\net5.0\if-elseif-ternary-if.dll
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\bin\Debug\net5.0\ref\if-elseif-ternary-if.dll
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\bin\Debug\net5.0\if-elseif-ternary-if.pdb
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\if-elseif-ternary-if.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\if-elseif-ternary-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\if-elseif-ternary-if.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\if-elseif-ternary-if.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\if-elseif-ternary-if.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\if-elseif-ternary-if.dll
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\ref\if-elseif-ternary-if.dll
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\if-elseif-ternary-if.pdb
+C:\Users\ibrahim\Documents\Yeni klasör (4)\if-elseif-ternary-if\obj\Debug\net5.0\if-elseif-ternary-if.genruntimeconfig.cache

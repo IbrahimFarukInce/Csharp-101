@@ -1,0 +1,16 @@
+C:\Users\ibrahim\Documents\c#\array-metodlar\bin\Debug\net5.0\array-metodlar.exe
+C:\Users\ibrahim\Documents\c#\array-metodlar\bin\Debug\net5.0\array-metodlar.deps.json
+C:\Users\ibrahim\Documents\c#\array-metodlar\bin\Debug\net5.0\array-metodlar.runtimeconfig.json
+C:\Users\ibrahim\Documents\c#\array-metodlar\bin\Debug\net5.0\array-metodlar.runtimeconfig.dev.json
+C:\Users\ibrahim\Documents\c#\array-metodlar\bin\Debug\net5.0\array-metodlar.dll
+C:\Users\ibrahim\Documents\c#\array-metodlar\bin\Debug\net5.0\ref\array-metodlar.dll
+C:\Users\ibrahim\Documents\c#\array-metodlar\bin\Debug\net5.0\array-metodlar.pdb
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\array-metodlar.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\array-metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\array-metodlar.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\array-metodlar.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\array-metodlar.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\array-metodlar.dll
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\ref\array-metodlar.dll
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\array-metodlar.pdb
+C:\Users\ibrahim\Documents\c#\array-metodlar\obj\Debug\net5.0\array-metodlar.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\bin\Debug\net5.0\try-catch-finally.exe
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\bin\Debug\net5.0\try-catch-finally.deps.json
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\bin\Debug\net5.0\try-catch-finally.runtimeconfig.json
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\bin\Debug\net5.0\try-catch-finally.runtimeconfig.dev.json
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\bin\Debug\net5.0\try-catch-finally.dll
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\bin\Debug\net5.0\ref\try-catch-finally.dll
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\bin\Debug\net5.0\try-catch-finally.pdb
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\try-catch-finally.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\try-catch-finally.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\try-catch-finally.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\try-catch-finally.dll
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\ref\try-catch-finally.dll
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\try-catch-finally.pdb
+C:\Users\ibrahim\Documents\Yeni klasör (4)\try-catch-finally\obj\Debug\net5.0\try-catch-finally.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\bin\Debug\net5.0\diziler-tanimlama-dongu.exe
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\bin\Debug\net5.0\diziler-tanimlama-dongu.deps.json
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\bin\Debug\net5.0\diziler-tanimlama-dongu.runtimeconfig.json
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\bin\Debug\net5.0\diziler-tanimlama-dongu.runtimeconfig.dev.json
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\bin\Debug\net5.0\diziler-tanimlama-dongu.dll
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\bin\Debug\net5.0\ref\diziler-tanimlama-dongu.dll
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\bin\Debug\net5.0\diziler-tanimlama-dongu.pdb
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\diziler-tanimlama-dongu.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\diziler-tanimlama-dongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\diziler-tanimlama-dongu.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\diziler-tanimlama-dongu.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\diziler-tanimlama-dongu.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\diziler-tanimlama-dongu.dll
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\ref\diziler-tanimlama-dongu.dll
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\diziler-tanimlama-dongu.pdb
+C:\Users\ibrahim\Documents\c#\diziler-tanimlama-dongu\obj\Debug\net5.0\diziler-tanimlama-dongu.genruntimeconfig.cache

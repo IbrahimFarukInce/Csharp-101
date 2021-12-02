@@ -1,0 +1,16 @@
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\bin\Debug\net5.0\odev-3.exe
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\bin\Debug\net5.0\odev-3.deps.json
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\bin\Debug\net5.0\odev-3.runtimeconfig.json
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\bin\Debug\net5.0\odev-3.runtimeconfig.dev.json
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\bin\Debug\net5.0\odev-3.dll
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\bin\Debug\net5.0\ref\odev-3.dll
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\bin\Debug\net5.0\odev-3.pdb
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\odev-3.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\odev-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\odev-3.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\odev-3.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\odev-3.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\odev-3.dll
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\ref\odev-3.dll
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\odev-3.pdb
+C:\Users\ibrahim\Documents\c#\odev-1\odev-3\obj\Debug\net5.0\odev-3.genruntimeconfig.cache
