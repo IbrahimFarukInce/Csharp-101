@@ -1,0 +1,16 @@
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\bin\Debug\net5.0\string-metotları.exe
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\bin\Debug\net5.0\string-metotları.deps.json
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\bin\Debug\net5.0\string-metotları.runtimeconfig.json
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\bin\Debug\net5.0\string-metotları.runtimeconfig.dev.json
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\bin\Debug\net5.0\string-metotları.dll
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\bin\Debug\net5.0\ref\string-metotları.dll
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\bin\Debug\net5.0\string-metotları.pdb
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\string-metotları.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\string-metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\string-metotları.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\string-metotları.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\string-metotları.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\string-metotları.dll
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\ref\string-metotları.dll
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\string-metotları.pdb
+C:\Users\ibrahim\Documents\c#\hazır metotlar\string-metotları\obj\Debug\net5.0\string-metotları.genruntimeconfig.cache
